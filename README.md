@@ -33,24 +33,29 @@ class NouhaSejil:
             "Cloud Solutions",
             "Full Stack Development"
         ]
-```
+````
 
-🎓 Software Development Engineer graduated from  
+🎓 Software Development Engineer graduated from
 **Higher Institute of Computer Science of Tunis (ISI)**
 
 🚀 Passionate about building:
-- Intelligent AI systems
-- ERP & Cloud solutions
-- Modern scalable applications
-- High-performance APIs
-- Data-driven software architectures
+
+* Intelligent AI systems
+* ERP & Cloud solutions
+* Modern scalable applications
+* High-performance APIs
+* Data-driven software architectures
 
 💼 Open to:
-- Remote opportunities
-- Europe & Canada positions
-- AI Engineer roles
-- Software Engineering roles
-````
+
+* Remote opportunities
+* Europe & Canada positions
+* AI Engineer roles
+* Software Engineering roles
+
+```
+```
+
 
 
 ---
