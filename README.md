@@ -1,6 +1,4 @@
-## Hi there 👋
-
-````markdown
+````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,50:302B63,100:24243E&text=Nouha%20Sejil&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Engineer%20•%20Cloud%20%26%20ERP%20Developer&descAlignY=58"/>
@@ -196,31 +194,11 @@ class NouhaSejil:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SejilNouha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejilNouha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🌌 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SejilNouha&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
