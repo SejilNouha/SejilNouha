@@ -1,20 +1,4 @@
-````md
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,50:302B63,100:24243E&text=Nouha%20Sejil&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Engineer%20•%20Cloud%20%26%20ERP%20Developer&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+LLM+Developer;Software+Development+Engineer;Microsoft+Dynamics+365+Developer;Full+Stack+Engineer;Building+Scalable+Intelligent+Systems"/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Solutions-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ERP%20Developer-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Remote%20Opportunities-4F46E5?style=for-the-badge"/>
-</p>
-
-</div>
-
----
+<div align="center"> # 👋 Hi, I'm Nouha Sejil ### AI Engineer • Software Engineer • Cloud & ERP Developer <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+LLM+Developer;Full+Stack+Developer;Microsoft+Dynamics+365+Developer;Building+Intelligent+Systems"/> <br> <img src="https://img.shields.io/badge/AI%20Engineer-8B5CF6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud%20Solutions-6366F1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Open%20to%20Remote-4F46E5?style=for-the-badge"/> </div> ---
 
 # 👋 About Me
 
