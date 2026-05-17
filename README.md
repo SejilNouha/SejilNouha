@@ -1,43 +1,6 @@
 <div align="center"> # 👋 Hi, I'm Nouha Sejil ### AI Engineer • Software Engineer • Cloud & ERP Developer <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+Engineer+%26+LLM+Developer;Full+Stack+Developer;Microsoft+Dynamics+365+Developer;Building+Intelligent+Systems"/> <br> <img src="https://img.shields.io/badge/AI%20Engineer-8B5CF6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud%20Solutions-6366F1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Open%20to%20Remote-4F46E5?style=for-the-badge"/> </div> ---
 
-# 👋 About Me
-
-```python
-class NouhaSejil:
-
-    def __init__(self):
-        self.role = "AI Engineer & Software Engineer"
-        self.location = "Tunisia 🇹🇳"
-
-    def current_focus(self):
-        return [
-            "Machine Learning",
-            "Deep Learning",
-            "LLMs",
-            "Cloud Solutions",
-            "Full Stack Development"
-        ]
-````
-
-🎓 Software Development Engineer graduated from
-**Higher Institute of Computer Science of Tunis (ISI)**
-
-🚀 Passionate about building:
-
-* Intelligent AI systems
-* ERP & Cloud solutions
-* Modern scalable applications
-* High-performance APIs
-* Data-driven software architectures
-
-💼 Open to:
-
-* Remote opportunities
-* Europe & Canada positions
-* AI Engineer roles
-* Software Engineering roles
-
-```
+# 🚀 About Me 🎓 Software Development Engineer graduated from **Higher Institute of Computer Science of Tunis (ISI)** 💡 Passionate about: - Artificial Intelligence & LLMs - Cloud & ERP Solutions - Full Stack Development - Scalable APIs & architectures - Data Engineering 🌍 Open to: - Remote opportunities - Europe & Canada positions - AI Engineer roles - Software Engineering roles ---
 ```
 
 
